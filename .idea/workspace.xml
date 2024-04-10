@@ -1,8 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="3141f17f-2419-497b-8f14-3da19cdda5ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage1/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage1/UserStory№1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage1/UserStory№2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage1/UserStory№3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage1/ДіаграмаПослідовності№1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage1/ДіаграмаПослідовності№2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Stage1/ДіаграмаПослідовності№3.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +37,15 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alexs\Documents\GitHub\JavaSpring\Stage1" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
